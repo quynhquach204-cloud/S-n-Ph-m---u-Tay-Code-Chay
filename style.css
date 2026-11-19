@@ -1,0 +1,341 @@
+header {
+  margin-left: -20px;
+}
+img {
+  width: 100%;
+  height: 280px;
+}
+.logo {
+  display: flex;
+  width: 100%;
+  height: 30px;
+  padding-left: 10px;
+
+  /* margin-bottom: 10px; */
+}
+.logo h1 {
+  color: red;
+  font-size: 20px;
+  margin-left: 100px;
+}
+
+.fa-home {
+  margin-right: 10px;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+}
+.fa-home:hover {
+  font-size: 40px;
+  background-color: white;
+}
+.right {
+  margin-left: 700px;
+  margin-top: 12px;
+  display: flex;
+}
+.right a {
+  text-decoration: none;
+  padding-right: 20px;
+  padding-left: 10px;
+  border-right: 1px solid #0000002d;
+}
+.right a:hover {
+  text-shadow: 1px 1px;
+}
+.fa-magnifying-glass {
+  color: grey;
+  margin-right: 17px;
+  padding-right: 5px;
+  border-right: 1px solid #0000002d;
+}
+.fa-magnifying-glass:hover {
+  color: black;
+}
+.fa-bell {
+  color: gray;
+  padding-left: 5px;
+}
+.fa-bell:hover {
+  color: black;
+}
+
+.fa-user {
+  color: grey;
+  margin-right: 10px;
+}
+.fa-user:hover {
+  color: black;
+}
+.tap {
+  text-align: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background-color: #ffffff;
+}
+.tap a {
+  text-decoration: none;
+  padding-right: 20px;
+  font-size: 17px;
+  color: black;
+}
+.tap a:hover {
+  text-shadow: 1px 1px;
+  color: red;
+}
+.fa-cloud-sun-rain {
+  margin-top: 17px;
+  color: gray;
+  margin-left: 20px;
+}
+.fa-cloud-sun-rain:hover {
+  color: black;
+}
+
+.chia {
+  max-width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.phai {
+  width: 68%;
+  color: blue;
+  padding-left: 10px;
+  border-left: 1px solid #0000002d;
+}
+.trai {
+  padding-right: 10px;
+  width: 30%;
+  color: brown;
+  display: flex;
+}
+
+.imgtrai img {
+  width: 200px;
+  height: 100px;
+  margin-right: 3px;
+}
+h1 {
+  font-size: 17px;
+  color: black;
+}
+p {
+  display: flex;
+  font-size: 15px;
+  color: black;
+}
+.tapphai {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.tapphai a:first-child {
+  font-size: 26px;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #a52a2a;
+}
+.tapphai a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  color: black;
+}
+.chiaphai {
+  display: flex;
+  max-width: 100%;
+}
+.chiaphai .phaii {
+  width: 50%;
+  padding-left: 10px;
+  border-left: 1px solid #0000002d;
+}
+.chiaphai .traii {
+  width: 50%;
+  margin-right: 10px;
+}
+
+h3 {
+  text-transform: uppercase;
+  color: black;
+}
+.tapphai :hover {
+  color: red;
+}
+
+.chiaphaiphai {
+  display: flex;
+  max-width: 100%;
+}
+.phaiphaitrai {
+  width: 65%;
+}
+.phaiphaiphai {
+  width: 35%;
+  margin-left: 3px;
+  padding-left: 10px;
+  border-left: 1px solid #0000002d;
+  background-color: rgba(128, 128, 128, 0.142);
+}
+.phaiphaitrai p {
+  display: flex;
+  margin-right: 10px;
+}
+.phaiphaitrai img {
+  width: 900px;
+  height: 100px;
+  margin-right: 30px;
+}
+.phaiphaitrai h1 {
+  font-size: 25px;
+}
+.phaiphaiphai h1 {
+  font-size: 25px;
+}
+.tapphaithree {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.tapphaithree a:first-child {
+  font-size: 26px;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #a52a2a;
+}
+.tapphaithree a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  color: black;
+}
+.tapphaithree :hover {
+  color: red;
+}
+
+.chiaphaitwo {
+  display: flex;
+  max-width: 100%;
+}
+.traitwo {
+  width: 40%;
+  margin-right: 5px;
+}
+.traitwo img {
+  height: 200px;
+}
+.phaitwo {
+  width: 60%;
+  margin-left: 10px;
+  margin-top: -20px;
+  padding-left: 10px;
+  border-left: 1px solid #0000002d;
+}
+.phaitwo img {
+  width: 200px;
+  height: 100px;
+  margin-right: 3px;
+  margin-left: 10px;
+}
+.phaitwo p {
+  font-size: 18px;
+}
+.chiatiep {
+  display: flex;
+  max-width: 100%;
+}
+.dau {
+  width: 25%;
+  margin-right: 20px;
+}
+.giuaone {
+  width: 25%;
+  margin-right: 20px;
+}
+.giuatwo {
+  width: 25%;
+  margin-right: 20px;
+}
+.cuoi {
+  width: 25%;
+}
+.chiatiep {
+  max-width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid #ef0909f1;
+}
+.chiatiep img {
+  width: 100%;
+  height: 200px;
+}
+.chiatiep h1 {
+  color: rgb(179, 81, 28);
+  margin-top: 26px;
+  margin-bottom: -20px;
+  font-size: 20px;
+}
+.chiatiep h3 {
+  font-size: 16px;
+}
+.chiatiep p img {
+  width: 230px;
+  height: 80px;
+  margin-left: 10px;
+}
+hr {
+  border: 0;
+  border-top: 1px solid #ccc;
+  opacity: 0.9;
+}
+
+.chiafooter {
+  display: flex;
+  margin: 0 auto;
+  max-width: 90%;
+  justify-content: center;
+}
+.ftdau {
+  width: 45%;
+  margin-right: 10px;
+}
+.ftgiua {
+  width: 25%;
+  margin-right: 10px;
+  margin-top: 90px;
+}
+.ftcuoi {
+  width: 20%;
+  margin-top: 90px;
+}
+
+.chiafooter p {
+  margin: 0;
+}
+h5 {
+  color: red;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.ftcuoi img {
+  height: 50px;
+}
+
+.ftcuoi p {
+  font-size: 18px;
+}
+.ftdau p {
+  font-size: 16px;
+}
+.ftgiua p {
+  font-size: 16px;
+}
+h6 {
+  margin-left: 130px;
+  color: rgb(255, 0, 0);
+  font-size: 20px;
+  margin-top: 10px;
+}
